@@ -24,3 +24,5 @@ fields:
 - type: list
   name: pages
   label: pages
+pages:
+- data/test.md
