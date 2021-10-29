@@ -1,0 +1,19 @@
+---
+label: test2
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: group
+  label: group
+- type: boolean
+  name: toc
+  label: toc
